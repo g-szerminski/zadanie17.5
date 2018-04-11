@@ -1,0 +1,25 @@
+{
+  "name": "zadanie17.5",
+  "version": "1.0.0",
+  "description": "17 - ExpressJS-ekspresowe tworzenie aplikacji w NodeJS<br>\r 17.5. Middleware - pośrednik między żądaniem a odpowiedzią<br>\r Zadanie: Pośrednik w sklepie",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-szerminski/zadannie17.5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g-szerminski/zadannie17.5/issues"
+  },
+  "homepage": "https://github.com/g-szerminski/zadannie17.5#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
